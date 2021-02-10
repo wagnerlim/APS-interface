@@ -10,7 +10,7 @@ Nós fizemos uma aplicação que faz um pequeno sistema de gerenciamento de alun
 
 Tela inicial da aplicação, com botões de acesso e de mostrar a senha:
 
-![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\Tela Login print.png)
+![](https://github.com/wagnerlim/APS-interface/blob/master/Imagens/printREADME/Tela%20Login%20print.png)
 
 
 
