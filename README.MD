@@ -1,4 +1,14 @@
+Atividade pratica supervisionada
+
 APS FMU Sistemas de informação 3/8
+
+# Versões utilizadas:
+
+- Mysql: 8.0.18
+
+- Java: "1.8.0_251"
+
+- Javac:"1.8.0_111."
 
 # Sobre o projeto:
 
