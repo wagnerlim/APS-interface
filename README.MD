@@ -18,19 +18,19 @@ Tela principal, usada pra gerenciar os alunos, podendo fazer todas modificaçõe
 
 
 
-![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\Tela Principal.png)
+![](https://github.com/wagnerlim/APS-interface/blob/master/Imagens/printREADME/Tela%20Principal.png)
 
 Telas de criação e remoção de usuário: 
 
-![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\AdicionarEremoverusuario.png)
+![](https://github.com/wagnerlim/APS-interface/blob/master/Imagens/printREADME/AdicionarEremoverusuario.png)
 
 Telas de remoção e criação de novos alunos:
 
-![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\TelaRemoçãoEadicionar.png)
+![](https://github.com/wagnerlim/APS-interface/blob/master/Imagens/printREADME/TelaRemo%C3%A7%C3%A3oEadicionar.png)
 
 # Pacotes da aplicação
 
-![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\Aps print 1.png)
+![](https://github.com/wagnerlim/APS-interface/blob/master/Imagens/printREADME/Aps%20print%201.png)
 
 # ATENÇÃO
 
