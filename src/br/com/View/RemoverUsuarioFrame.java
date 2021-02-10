@@ -62,7 +62,7 @@ public class RemoverUsuarioFrame extends JFrame {
 		setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		try {
-			contentPane = new FundoBg("C:\\Users\\wagne\\Desktop\\Aps interface\\FundoRemoverAluno.png");
+			contentPane = new FundoBg("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\Fundos de tela\\FundoRemoverAluno.png");
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();

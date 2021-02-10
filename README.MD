@@ -10,7 +10,7 @@ Nós fizemos uma aplicação que faz um pequeno sistema de gerenciamento de alun
 
 Tela inicial da aplicação, com botões de acesso e de mostrar a senha:
 
-![](C:\Users\wagne\Desktop\aps interface prints\Tela Login print.png)
+![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\Tela Login print.png)
 
 
 
@@ -18,19 +18,19 @@ Tela principal, usada pra gerenciar os alunos, podendo fazer todas modificaçõe
 
 
 
-![](C:\Users\wagne\Desktop\aps interface prints\Tela Principal.png)
+![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\Tela Principal.png)
 
 Telas de criação e remoção de usuário: 
 
-![](C:\Users\wagne\Desktop\aps interface prints\AdicionarEremoverusuario.png)
+![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\AdicionarEremoverusuario.png)
 
 Telas de remoção e criação de novos alunos:
 
-![](C:\Users\wagne\Desktop\aps interface prints\TelaRemoçãoEadicionar.png)
+![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\TelaRemoçãoEadicionar.png)
 
 # Pacotes da aplicação
 
-![](C:\Users\wagne\Desktop\aps interface prints\Aps print 1.png)
+![](C:\Users\wagne\Desktop\Estudos progamção 2\APS-Interface\Imagens\printREADME\Aps print 1.png)
 
 # ATENÇÃO
 

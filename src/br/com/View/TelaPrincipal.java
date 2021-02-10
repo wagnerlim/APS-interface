@@ -82,7 +82,7 @@ public class TelaPrincipal extends JFrame {
 		try {
 //			"C:\\Users\\wagne\\Desktop\\Aps interface\\Prancheta 1.png" fundo para teste
 //			"C:\\Users\\wagne\\Desktop\\Aps interface\\FundoTesteAPS.png" Outro fundo para teste
-			contentPane = new FundoBg("C:\\Users\\wagne\\Desktop\\Aps interface\\FundoTesteAPS.png");
+			contentPane = new FundoBg("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\Fundos de tela\\FundoTesteAPS.png");
 		} catch (IOException e2) {
 			// TODO Auto-generated catch block
 			e2.printStackTrace();
@@ -131,40 +131,40 @@ public class TelaPrincipal extends JFrame {
 		contentPane.add(menuBar);
 
 		JMenu menuAlunos = new JMenu("Alunos");
-		menuAlunos.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\study.png"));
+		menuAlunos.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\study.png"));
 		menuBar.add(menuAlunos);
 
 		// Item do menu Alunos, Adicionar
 		adicionarAlunoMenuItem = new JMenuItem("Adicionar");
-		adicionarAlunoMenuItem.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\plus.png"));
+		adicionarAlunoMenuItem.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\plus.png"));
 		menuAlunos.add(adicionarAlunoMenuItem);
 
 		// Item do menu Alunos, Remover
 		JMenuItem RemoverAlunoMenu = new JMenuItem("Remover");
-		RemoverAlunoMenu.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\delete.png"));
+		RemoverAlunoMenu.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\delete.png"));
 		menuAlunos.add(RemoverAlunoMenu);
 
 		JMenu mnNewMenu = new JMenu("Usuários");
-		mnNewMenu.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\Icones Usuarios\\user.png"));
+		mnNewMenu.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\user.png"));
 		menuBar.add(mnNewMenu);
 
 		JMenuItem AdicionarUsuarioMenuItem = new JMenuItem("Adicionar");
 		AdicionarUsuarioMenuItem
-				.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\Icones Usuarios\\userAdicionar.png"));
+				.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\userAdicionar.png"));
 		mnNewMenu.add(AdicionarUsuarioMenuItem);
 
 		JMenuItem removerUsuarioItem = new JMenuItem("Remover");
 		removerUsuarioItem
-				.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\Icones Usuarios\\userRemover.png"));
+				.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\userRemover.png"));
 		mnNewMenu.add(removerUsuarioItem);
 		
 		JMenuItem mntmNewMenuItem = new JMenuItem("Log off");
-		mntmNewMenuItem.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\Log off.png"));
+		mntmNewMenuItem.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\Log off.png"));
 		mnNewMenu.add(mntmNewMenuItem);
 
 		// Botão de atualizar a tabela
 		JButton btnNewButton = new JButton("Atualizar");
-		btnNewButton.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\botao-atualizar.png"));
+		btnNewButton.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela principal\\botao-atualizar.png"));
 		btnNewButton.setBounds(637, 170, 115, 23);
 		contentPane.add(btnNewButton);
 

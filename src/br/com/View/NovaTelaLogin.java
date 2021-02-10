@@ -76,7 +76,7 @@ public class NovaTelaLogin extends JFrame {
 		
 		
 		try {
-			telaLogin = new FundoBg("C:\\Users\\wagne\\Desktop\\Aps interface\\TelaLoginBckgrounnd.png");
+			telaLogin = new FundoBg("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\Fundos de tela\\TelaLoginBckgrounnd.png");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -98,14 +98,14 @@ public class NovaTelaLogin extends JFrame {
 		telaLogin.add(campoSenha);
 		
 		JButton botaoAcessar = new JButton("Acessar");
-		botaoAcessar.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\entrar.png"));
+		botaoAcessar.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela login\\entrar.png"));
 		botaoAcessar.setBounds(109, 311, 111, 23);
 		telaLogin.add(botaoAcessar);
 		
 		JCheckBox mostrarSenha = new JCheckBox("");
-		mostrarSenha.setSelectedIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\visibilidade.png"));
+		mostrarSenha.setSelectedIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela login\\visibilidade.png"));
 		mostrarSenha.setPressedIcon(null);
-		mostrarSenha.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Icones\\invisivel.png"));
+		mostrarSenha.setIcon(new ImageIcon("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\icones Tela login\\invisivel.png"));
 		mostrarSenha.setBounds(278, 270, 33, 34);
 		telaLogin.add(mostrarSenha);
 		

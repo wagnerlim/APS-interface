@@ -73,7 +73,7 @@ public class AdicionarUsuarioFrame extends JFrame {
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();
 		try {
-			contentPane = new FundoBg("C:\\Users\\wagne\\Desktop\\Aps interface\\FundoAdicionarAluno.png");
+			contentPane = new FundoBg("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\Fundos de tela\\FundoAdicionarAluno.png");
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();

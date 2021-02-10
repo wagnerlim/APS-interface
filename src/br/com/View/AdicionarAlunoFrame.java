@@ -77,7 +77,7 @@ public class AdicionarAlunoFrame extends JFrame {
 		setBounds(100, 100, 450, 250);
 		adicionarAlunoFrame = new JPanel();
 		try {
-			adicionarAlunoFrame = new FundoBg("C:\\Users\\wagne\\Desktop\\Aps interface\\FundoAdicionarAluno.png");
+			adicionarAlunoFrame = new FundoBg("C:\\Users\\wagne\\Desktop\\Estudos progamção 2\\APS-Interface\\Imagens\\Fundos de tela\\FundoAdicionarAluno.png");
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
